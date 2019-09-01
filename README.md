@@ -18,7 +18,7 @@ The list below directs to the repositories that store my implementation of the f
 For the Project showcase challenge, I implemented Money count, which is a Proposed application to help the Visually Impaired count money and which also uses Differential privacy, Data anonymization, and offline image analysis to conserve and protect user privacy.  
 I am very happy and grateful that my project was awarded the 10th best project in the project showcase challenge.  
 
-[Money count Repository](https://github.com/nerytompz/Federated-Learning-PrivateandSecureAiUdacity/tree/master/Secure%20Federated%20Learning%20project)
+[Money count Repository](https://github.com/aksht94/UdacityOpenSource/tree/master/Ateniola_Oluwatobi_Victor)
 
 ### PROJECT SHOWCASE CHALLENGE BADGE FOR 10TH POSITION
 <img src="https://github.com/nerytompz/60DaysOfUdacity/blob/master/assets/Ateniola-Oluwatobi-Victor---Winner-10.jpg" width="100%">
