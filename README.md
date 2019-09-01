@@ -18,7 +18,7 @@ I am very happy and grateful that my project was awarded the 10th best project i
 [Money count Repository](https://github.com/nerytompz/Federated-Learning-PrivateandSecureAiUdacity/tree/master/Secure%20Federated%20Learning%20project)
 
 ### PROJECT SHOWCASE CHALLENGE BADGE FOR 10TH POSITION
-<img src="https://github.com/mankadronit/UdacityOpenSource/blob/Ronit/Ronit/assets/SC1.png" width="100%">
+<img src="https://github.com/nerytompz/60DaysOfUdacity/blob/master/assets/Ateniola-Oluwatobi-Victor---Winner-10.jpg" width="100%">
 
 ## Differential privacy and PATE analysis Webinar
 
