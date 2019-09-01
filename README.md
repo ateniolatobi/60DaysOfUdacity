@@ -1,6 +1,9 @@
 # 60DaysOfUdacity
 
-This repository contains the record of my participation in the 60DaysOfUdacity challenge organized in the Secure and Private AI challenge course from Udacity and Facebook. The records for each day are recorded in the Excel Document above in this repository.
+This repository contains the record of my participation in the 60DaysOfUdacity challenge organized in the Secure and Private AI challenge course from Udacity and Facebook.  
+The records for each day are recorded in Google Spreadsheet document linked below.
+
+[60DaysOfUdacity Daily Journal Link](https://docs.google.com/spreadsheets/d/1W2Yie7nQqPXaFVlQWBnpkQKE6m876FFAjIzLVukQefU/edit?usp=sharing)
 
 ## Secure and Private AI Keystone Projects for Differential privacy and Federated Learning.
 
