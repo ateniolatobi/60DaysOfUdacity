@@ -10,9 +10,9 @@ The records for each day are recorded in Google Spreadsheet document linked belo
 The list below directs to the repositories that store my implementation of the final projects for each privacy protection mechanism discussed in the course.
 
 
-1. [My Implementation of the Differential privacy in Deep learning and PATE analysis final project using the MNIST digit Dataset.](https://github.com/nerytompz/Differential-privacy-for-deeplearning-project)  
-2. [My Implementation of the Federated learning final project using the MNIST digit Dataset](https://github.com/nerytompz/Federated-Learning-PrivateandSecureAiUdacity/tree/master/Federated%20Learning%20project/)
-3. [My Implementation of the Secure Federated learning final project using the MNIST digit Dataset and distributing among 10 Virtual devices.](https://github.com/nerytompz/Federated-Learning-PrivateandSecureAiUdacity/tree/master/Secure%20Federated%20Learning%20project)
+1. [My Implementation of the Differential privacy in Deep learning and PATE analysis final project using the MNIST digit Dataset.](https://github.com/ateniolatobi/Differential-privacy-for-deeplearning-project)  
+2. [My Implementation of the Federated learning final project using the MNIST digit Dataset](https://github.com/ateniolatobi/Federated-Learning-Project)
+3. [My Implementation of the Secure Federated learning final project using the MNIST digit Dataset and distributing among 10 Virtual devices.](https://github.com/ateniolatobi/Secure-Federated-Learning-Project)
 
 ## PROJECT SHOWCASE CHALLENGE
 For the Project showcase challenge, I implemented Money count, which is a Proposed application to help the Visually Impaired count money and which also uses Differential privacy, Data anonymization, and offline image analysis to conserve and protect user privacy.  
